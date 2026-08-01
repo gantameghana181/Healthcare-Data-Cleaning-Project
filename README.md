@@ -38,13 +38,13 @@ This project demonstrates end-to-end data cleaning and preprocessing on a health
 
 ### Before Log Transformation
 
-![Before](<img width="641" height="664" alt="Histogram before log transformation" src="https://github.com/user-attachments/assets/ef354b04-91fc-4bae-b2a5-23e9e89f0051" />
-)
+![Before]<img width="641" height="664" alt="Histogram before log transformation" src="https://github.com/user-attachments/assets/61ca6933-ec2a-4625-ac26-1ef54dd83da6" />
+
+
 
 ### After Log Transformation
 
-![After](<img width="761" height="637" alt="histogram after log transformation" src="https://github.com/user-attachments/assets/dcfbb15c-92f4-4dbb-9398-a31522b49ca2" />
-)
+![After]
 
 
 ## Skills Demonstrated
