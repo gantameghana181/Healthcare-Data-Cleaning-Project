@@ -34,6 +34,8 @@ This project demonstrates end-to-end data cleaning and preprocessing on a health
 - Duplicate records removed
 - Outliers treated
 - Dataset prepared for analysis
+  <img width="761" height="637" alt="histogram after log transformation" src="https://github.com/user-attachments/assets/8dac60a6-6910-4aab-b421-cd582e9ada96" />
+
 
 ## Skills Demonstrated
 
