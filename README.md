@@ -30,21 +30,23 @@ This project demonstrates end-to-end data cleaning and preprocessing on a health
 
 ## Results
 
-- Missing values handled successfully
-- Duplicate records removed
-- Outliers treated
-- Dataset prepared for analysis
+- Missing values handled successfully.
+- Removed 99 duplicate records.
+- Applied Winsorization using the 5th and 95th percentiles.
+- Reduced skewness using log transformation.
+- Prepared the dataset for further analysis and machine learning.
  ## Distribution Comparison
 
 ### Before Log Transformation
 
-![Before]<img width="641" height="664" alt="Histogram before log transformation" src="https://github.com/user-attachments/assets/61ca6933-ec2a-4625-ac26-1ef54dd83da6" />
+<img width="641" height="664" alt="Histogram before log transformation" src="https://github.com/user-attachments/assets/61ca6933-ec2a-4625-ac26-1ef54dd83da6" />
 
 
 
 ### After Log Transformation
 
-![After]
+<img width="761" height="637" alt="histogram after log transformation" src="https://github.com/user-attachments/assets/3145117c-1624-444b-baa9-041e60863519" />
+
 
 
 ## Skills Demonstrated
